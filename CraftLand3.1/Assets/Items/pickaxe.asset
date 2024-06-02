@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de8acb1d1e5ec444e8aecba4b7b74b4f, type: 3}
+  m_Name: pickaxe
+  m_EditorClassIdentifier: 
+  type: 0
+  actionType: 0
+  range: {x: 5, y: 4}
+  animatorController: {fileID: 9100000, guid: ef9ea3515eeba2b4a9b2676f6aa8df19, type: 2}
+  damage: 10
+  itemRule: {fileID: 11400000, guid: 7d6625be0bf198e4caa470915de6cba8, type: 2}
+  stacable: 0
+  sprite: {fileID: 21300000, guid: f668638cb668baa48a29b735e2f43658, type: 3}
