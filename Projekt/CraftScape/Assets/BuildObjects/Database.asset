@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bba9328a0bd7c9a4d98de8637f65db5c, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Furnace
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 0.32, y: 0.32}
+    <Prefab>k__BackingField: {fileID: 9019655750006494632, guid: 5346cf54c91339d4b92f21e5127717e7, type: 3}
+    requiredItems: []
+  - <Name>k__BackingField: Table
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 0.32, y: 0.32}
+    <Prefab>k__BackingField: {fileID: 9019655750006494632, guid: 3c898cf45d539d245b0c987b2d332787, type: 3}
+    requiredItems: []
+  - <Name>k__BackingField: Loom
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 0.32, y: 0.32}
+    <Prefab>k__BackingField: {fileID: 9019655750006494632, guid: 8c495e9f263a1cf46ad8b5ddfb15070c, type: 3}
+    requiredItems: []
+  - <Name>k__BackingField: Anvil
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 0.32, y: 0.32}
+    <Prefab>k__BackingField: {fileID: 9019655750006494632, guid: 8792bb0b479c3994cbe454f52150ac5a, type: 3}
+    requiredItems: []

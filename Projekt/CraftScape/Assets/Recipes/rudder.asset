@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b59a93a92ebd441469003cec2027b08a, type: 3}
+  m_Name: rudder
+  m_EditorClassIdentifier: 
+  Materials:
+  - item: {fileID: 11400000, guid: a17ae9cc3b1f8454eb975936ded4796e, type: 2}
+    amount: 20
+  - item: {fileID: 11400000, guid: 34257b6e218116145a462ab7ee0e7182, type: 2}
+    amount: 5
+  Results:
+  - item: {fileID: 11400000, guid: 6e3385eb296ca6041b47a7fe9145ba46, type: 2}
+    amount: 1
